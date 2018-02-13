@@ -1,3 +1,4 @@
+package lpht;
 import java.util.Collection;
 
 /**
